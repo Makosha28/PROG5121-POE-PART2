@@ -1,10 +1,7 @@
 
 package com.mycompany.quickchat;
 
-/**
- *
- * @author mamphekgonthabiseng
- */
+
 import java.util.Scanner;
 
 public class Main {
