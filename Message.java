@@ -4,10 +4,7 @@
  */
 package com.mycompany.quickchat;
 
-/**
- *
- * @author mamphekgonthabiseng
- */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
